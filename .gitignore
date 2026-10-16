@@ -1,0 +1,7 @@
+
+# Big files and secrets
+*.pt
+*.onnx
+runs/
+datasets/
+.env
